@@ -5,11 +5,12 @@
 <p align="center">
   <a href="mailto:albiin7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Albiin777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/albinthomas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio.albinthomas.dev"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/albinthomas18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://albiin.me"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+ <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Download-Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Albiin777&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
 
 </div>
 
@@ -25,7 +26,7 @@ const albin = {
   cgpa: 8.41,
   currentlyLearning: ["System Design", "DSA", "Cloud Deployment"],
   roles: ["Full-Stack Developer", "Content Lead @ µLearn CHN", "Treasurer @ PRODDEC CEC"],
-  funFact: "I build things that solve real problems — and write about them too ✍️"
+  funFact: "I build things that solve real problems, and write about them too ✍️"
 };
 ```
 
