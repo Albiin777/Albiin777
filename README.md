@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/albinthomas18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://albiin.me"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
- <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Download-Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+ <a href="https://github.com/Albiin777/Albiin777/blob/main/Albin_Thomas-resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 
