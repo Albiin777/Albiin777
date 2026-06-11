@@ -103,6 +103,13 @@ const albin = {
 </table>
 
 ---
+## Top Languages:
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albiin777&layout=donut&theme=dark&title_color=ffffff&card_width=300" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albiin777&layout=donut&theme=dark&title_color=ffffff&card_width=300&count_private=true" />
+</div>
 
 ## 💼 Experience & Leadership
 
