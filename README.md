@@ -79,7 +79,7 @@ const albin = {
   <tr>
     <td width="50%" valign="top">
       <h3>🗓️ <a href="https://dailee.albiin.me/">Dailee</a></h3>
-      <p>A personal diary and progress-tracking app for daily reflections, growth tracking, and monthly insights..</p>
+      <p>A personal diary and progress tracker for recording daily growth, reflecting on experiences, and reviewing progress with calendar history and monthly insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
