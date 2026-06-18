@@ -78,15 +78,15 @@ const albin = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://quickcart-001.vercel.app/">QuickCart</a></h3>
-      <p>A smart cart tracking web app for daily use. Manage multiple shopping lists, track item history, and update quantities in real time — across all your devices.</p>
+      <h3>🗓️ <a href="https://dailee.albiin.me/">Dailee</a></h3>
+      <p>A personal diary and progress-tracking web app for recording daily growth, reflecting on experiences, and reviewing progress through calendar history and monthly insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
-      <p>✅ Multi-list management &nbsp;|&nbsp; 🔄 Real-time sync &nbsp;|&nbsp; 🔐 Auth + local storage</p>
+      <p>📆 Record Daily Stats&nbsp;|&nbsp; 📈 View Saved Progress &nbsp;|&nbsp; 🤖 Generate AI Insights</p>
     </td>
     <td width="50%" valign="top">
       <h3>🚆 <a href="https://smartrail-26.vercel.app">SmartRail</a></h3>
